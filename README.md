@@ -7,7 +7,7 @@ Pascal, C., & Olesen, O. (2009). Are the Norwegian mountains compensated by a ma
 
 Heat flow from an asthenospheric diapir that interacts with the base of a cold crustal lithosphereis modeled ((see Figure 1), and calculations were made by using 2D finite element thermal modelling.
 
-<img src="README-figures/disgram.png" style="display: block; margin: auto;" />
+<img src="README-figures/diagram.png" style="display: block; margin: auto;" />
 
 License
 -------
